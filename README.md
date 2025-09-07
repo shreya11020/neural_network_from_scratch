@@ -1,2 +1,18 @@
-# neural_network_from_scratch
-This demonstrates how to implement a simple feed-forward neural network without using deep learning libraries  It includes:  Forward propagation , Activation functions ,Backpropagation for weight updates  ,Training on example datasets  . The goal is to understand the math behind neural networks by coding each step manually.
+
+# Neural Network from Scratch 
+
+This project implements a simple **feed-forward neural network** completely from scratch using only **NumPy**.  
+
+
+---
+
+##  Features
+- Forward propagation (matrix multiplications + activation functions)
+- Backpropagation (gradient descent weight updates)
+- Configurable network architecture
+- Simple dataset training & evaluation
+- Implemented using only **Python + NumPy** (no TensorFlow, no PyTorch)
+
+---
+
+## 📂 Project Structure
